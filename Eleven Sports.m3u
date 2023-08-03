@@ -1,0 +1,6 @@
+#EXTINF:-1,Eleven Sports 1 4K 50
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c53b3d7544d562802fc6bb9babf41955&key=23d6d34321d00f07afcbf824de06a1e2
+http://152.70.235.185:18999/eleven4k.mpd
